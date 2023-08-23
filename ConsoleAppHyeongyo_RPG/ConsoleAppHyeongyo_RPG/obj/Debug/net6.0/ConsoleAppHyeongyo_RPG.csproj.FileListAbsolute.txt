@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\obj\Debug\net6.0\ConsoleAppHyeongyo_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\obj\Debug\net6.0\ConsoleAppHyeongyo_RPG.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\obj\Debug\net6.0\ConsoleAppHyeongyo_RPG.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\obj\Debug\net6.0\ConsoleAppHyeongyo_RPG.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\bin\Debug\net6.0\ConsoleAppHyeongyo_RPG.exe
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\bin\Debug\net6.0\ConsoleAppHyeongyo_RPG.deps.json
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\bin\Debug\net6.0\ConsoleAppHyeongyo_RPG.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\bin\Debug\net6.0\ConsoleAppHyeongyo_RPG.dll
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\bin\Debug\net6.0\ConsoleAppHyeongyo_RPG.pdb
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\obj\Debug\net6.0\ConsoleAppHyeongyo_RPG.dll
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\obj\Debug\net6.0\refint\ConsoleAppHyeongyo_RPG.dll
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\obj\Debug\net6.0\ConsoleAppHyeongyo_RPG.pdb
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\obj\Debug\net6.0\ConsoleAppHyeongyo_RPG.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\Joah_CsharpStudy\Hyeongyo\ConsoleAppHyeongyo_RPG\ConsoleAppHyeongyo_RPG\obj\Debug\net6.0\ref\ConsoleAppHyeongyo_RPG.dll
